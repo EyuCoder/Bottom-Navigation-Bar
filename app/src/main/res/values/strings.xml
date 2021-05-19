@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="favorite_fragment">Favorite fragment</string>
+    <string name="settings_fragment">Settings fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+</resources>
